@@ -1,5 +1,5 @@
 # OhMyQR v1.0
-## Author: github.com/thelinuxchoice
+## Author: mansourtantan11@gmail.comgithub.com/thelinuxchoice
 ## IG: instagram.com/thelinuxchoice
 ### Don't copy this code without give me the credits, nerd! 
 
