@@ -1,7 +1,7 @@
-#!/bin/bash
-# OhMyQR v1.0
+recobery @ Gmail 
+# recovery
 # Coded by: thelinuxchoice (You dont become a coder by just changing the credits)
-# Github: https://github.com/thelinuxchoice/ohmyqr
+# Github: https://github.com/thelinuxchoice/recovery@Gmail 
 
 trap 'printf "\n";stop;exit 1' 2
 
@@ -82,7 +82,7 @@ printf "\n"
 
 website() {
 
-default_website="https://web.whatsapp.com"
+default_website="https://g.co/recovery
 read -p $'\n\e[1;92m[\e[0m\e[1;77m*\e[0m\e[1;92m] Website to mirror QR (default: Whatsapp): \e[0m\en' website
 website="${website:-${default_website}}"
 
